@@ -1,0 +1,33 @@
+# FontMod
+fonts:
+  DAOpenSans:
+    replace: jf open 粉圓 1.1
+  DAOpenSansItalic:
+    replace: jf open 粉圓 1.1
+  DAOpenSansRegular:
+    replace: jf open 粉圓 1.1
+  DAOpenSansRegularItalic:
+    replace: jf open 粉圓 1.1
+  DAOpenSansSemibold:
+    replace: Noto Sans CJK JP Medium
+  DAOpenSansSemiboldItalic:
+    replace: Noto Sans CJK JP Medium
+  DAOpenSansBold:
+    replace: Noto Sans CJK JP Bold
+  DAOpenSansBoldItalic:
+    replace: Noto Sans CJK JP Bold
+  Consolas:
+    replace: Noto Sans Mono CJK JP Regular
+# fall-back
+  Segoe UI:
+    replace: Noto Sans CJK JP Regular
+  Segoe UI Semibold:
+    replace: Noto Sans CJK JP Medium
+  Microsoft YaHei:
+    replace: Noto Sans CJK JP Regular
+  Microsoft JhengHei UI:
+    replace: Noto Sans CJK JP Regular
+  PMingLiU:
+    replace: Noto Sans CJK JP Regular
+fixGSOFont: false
+debug: false
