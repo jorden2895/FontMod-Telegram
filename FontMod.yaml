@@ -17,16 +17,12 @@ fonts:
   DAOpenSansBoldItalic:
     replace: Noto Sans CJK JP Bold
   Consolas:
-    replace: Noto Sans Mono CJK JP Regular
+    replace: Fira Code Medium
 # fall-back
-  Segoe UI:
-    replace: Noto Sans CJK JP Regular
-  Segoe UI Semibold:
-    replace: Noto Sans CJK JP Medium
   Microsoft YaHei:
     replace: Noto Sans CJK JP Regular
-  Microsoft JhengHei UI:
-    replace: Noto Sans CJK JP Regular
+  Microsoft YaHei Bold:
+    replace: Noto Sans CJK JP Bold
   PMingLiU:
     replace: Noto Sans CJK JP Regular
 fixGSOFont: false
