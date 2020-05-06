@@ -9,20 +9,20 @@ fonts:
   DAOpenSansRegularItalic:
     replace: jf open 粉圓 1.1
   DAOpenSansSemibold:
-    replace: Noto Sans CJK JP Medium
+    replace: Noto Sans CJK JP Regular
   DAOpenSansSemiboldItalic:
-    replace: Noto Sans CJK JP Medium
+    replace: Noto Sans CJK JP Regular
   DAOpenSansBold:
-    replace: Noto Sans CJK JP Bold
+    replace: Noto Sans CJK JP Medium
   DAOpenSansBoldItalic:
-    replace: Noto Sans CJK JP Bold
+    replace: Noto Sans CJK JP Medium
   Consolas:
     replace: Fira Code Medium
 # fall-back
-  Microsoft YaHei:
+  Segoe UI:
     replace: Noto Sans CJK JP Regular
-  Microsoft YaHei Bold:
-    replace: Noto Sans CJK JP Bold
+  Segoe UI Semibold:
+    replace: Noto Sans CJK JP Medium
   PMingLiU:
     replace: Noto Sans CJK JP Regular
 fixGSOFont: false

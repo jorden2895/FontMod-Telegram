@@ -8,10 +8,8 @@
 
 - 系統使用的實際字型請用 debug 測試
 - 其他
+  - <https://github.com/desktop-app/lib_ui/blob/master/fonts/fonts.qrc>
   - <https://github.com/desktop-app/lib_ui/blob/master/ui/style/style_core_font.cpp>
-  - <https://github.com/desktop-app/lib_ui/blob/master/ui/style/style_core_font.cpp#L122>
-  - <https://github.com/desktop-app/lib_ui/blob/master/ui/style/style_core_font.cpp#L140>
-  - <https://github.com/desktop-app/lib_ui/blob/master/ui/style/style_core_font.cpp#L195>
 
 ----
 
