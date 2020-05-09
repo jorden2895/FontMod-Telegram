@@ -9,13 +9,13 @@ fonts:
   DAOpenSansRegularItalic:
     replace: jf open 粉圓 1.1
   DAOpenSansSemibold:
-    replace: Noto Sans CJK JP Regular
+    replace: Noto Sans CJK JP Medium
   DAOpenSansSemiboldItalic:
-    replace: Noto Sans CJK JP Regular
+    replace: Noto Sans CJK JP Medium
   DAOpenSansBold:
-    replace: Noto Sans CJK JP Medium
+    replace: Noto Sans CJK JP Bold
   DAOpenSansBoldItalic:
-    replace: Noto Sans CJK JP Medium
+    replace: Noto Sans CJK JP Bold
   Consolas:
     replace: Fira Code Medium
 # fall-back
