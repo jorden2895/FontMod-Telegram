@@ -1,29 +1,29 @@
 # FontMod
 fonts:
   DAOpenSans:
-    replace: jf open 粉圓 1.1
+    replace: 源泉圓體 L
   DAOpenSansItalic:
-    replace: jf open 粉圓 1.1
+    replace: 源泉圓體 L
   DAOpenSansRegular:
-    replace: jf open 粉圓 1.1
+    replace: 源泉圓體 R
   DAOpenSansRegularItalic:
-    replace: jf open 粉圓 1.1
+    replace: 源泉圓體 R
   DAOpenSansSemibold:
-    replace: Noto Sans CJK JP Medium
+    replace: 源泉圓體 M
   DAOpenSansSemiboldItalic:
-    replace: Noto Sans CJK JP Medium
+    replace: 源泉圓體 M
   DAOpenSansBold:
-    replace: Noto Sans CJK JP Bold
+    replace: 源泉圓體 B
   DAOpenSansBoldItalic:
-    replace: Noto Sans CJK JP Bold
+    replace: 源泉圓體 B
   Consolas:
     replace: Fira Code Medium
 # fall-back
   Segoe UI:
-    replace: Noto Sans CJK JP Regular
+    replace: 源泉圓體 R
   Segoe UI Semibold:
-    replace: Noto Sans CJK JP Medium
+    replace: 源泉圓體 M
   PMingLiU:
-    replace: Noto Sans CJK JP Regular
+    replace: 源泉圓體 R
 fixGSOFont: false
 debug: false
