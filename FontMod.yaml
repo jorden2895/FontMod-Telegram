@@ -18,12 +18,6 @@ fonts:
     replace: 源泉圓體 B
   Consolas:
     replace: Fira Code Medium
-# fall-back
-  Segoe UI:
-    replace: 源泉圓體 R
-  Segoe UI Semibold:
-    replace: 源泉圓體 M
-  PMingLiU:
-    replace: 源泉圓體 R
-fixGSOFont: false
+# fallback
+fixGSOFont: true
 debug: false
