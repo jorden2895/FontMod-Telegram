@@ -1,23 +1,23 @@
-# FontMod
 fonts:
   DAOpenSans:
-    replace: 源泉圓體 L
+    replace: AppleGothic
   DAOpenSansItalic:
-    replace: 源泉圓體 L
+    replace: AppleGothic
   DAOpenSansRegular:
-    replace: 源泉圓體 R
+    replace: AppleGothic
   DAOpenSansRegularItalic:
-    replace: 源泉圓體 R
+    replace: AppleGothic
   DAOpenSansSemibold:
-    replace: 源泉圓體 M
+    replace: AppleGothic
   DAOpenSansSemiboldItalic:
-    replace: 源泉圓體 M
+    replace: AppleGothic
   DAOpenSansBold:
-    replace: 源泉圓體 B
+    replace: AppleGothic
   DAOpenSansBoldItalic:
-    replace: 源泉圓體 B
+    replace: AppleGothic
   Consolas:
     replace: Fira Code Medium
-# fallback
-fixGSOFont: true
-debug: false
+
+fixGSOFont: true # true is to use system UI font
+#fixGSOFont: *zh-cn-font # Or replace with user defined font
+debug: true
